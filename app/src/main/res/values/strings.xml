@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PersistentCalculation</string>
+    <string name="preference_file_key" />
+</resources>
